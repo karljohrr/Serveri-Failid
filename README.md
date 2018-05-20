@@ -1,2 +1,3 @@
 # Serveri-Failid
-Siin saavad inimesed mutua kirju
+Siin saavad inimesed muuta SefFCrafti kirju
+
