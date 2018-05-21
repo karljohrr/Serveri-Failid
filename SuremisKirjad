@@ -67,23 +67,23 @@
     Rabbit:
       - "&c%plrtag% was slain by Rabbit"
     Sheep:
-      - "%plrtag% was slain by Sheep"
+      - "&c%plrtag% was slain by Sheep"
     Shulker:
-      - "%plrtag% was slain by Shulker"
+      - "&c%plrtag% was slain by Shulker"
     Silverfish:
-      - "%plrtag% was slain by Silverfish"
+      - "&C%plrtag% was slain by Silverfish"
     SkeletonArrow:
-      - "%plrtag% was shot by Skeleton"
+      - "&C%plrtag% was shot by Skeleton"
     SkeletonMelee:
-      - "%plrtag% was slain by Skeleton"
+      - "&c%plrtag% was slain by Skeleton"
     SkeletonCustom:
-      - "%plrtag% was slain by Skeleton using [%weapon%&f]"
+      - "&c%plrtag% was slain by Skeleton using [%weapon%&f]"
     SkeletonHorse:
-      - "%plrtag% was slain by Skeleton Horse"
+      - "&c%plrtag% was slain by &eSkeleton Horse"
     Slime:
-      - "%plrtag% was slain by Slime"
+      - "&c%plrtag% was slain by &eSlime"
     SnowGolem:
-      - "%plrtag% was pummeled by Snow Golem"
+      - "&c%plrtag% was pummeled by &eSnow Golem"
     Spider:
       - "%plrtag% was slain by Spider"
     Squid:
