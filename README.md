@@ -1,3 +1,3 @@
 # Serveri-Failid
-Siin saavad inimesed muuta SefFCrafti kirju
+Siin saavad inimesed muuta SeffCrafti kirju
 
