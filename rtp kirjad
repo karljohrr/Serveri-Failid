@@ -1,4 +1,4 @@
-NoPermission: '&4Teil pole piisavalt õigusi, et seda teha!'
+NoPermission: '&7Teil &cpole &7piisavalt õigusi, et seda teha!'
 MinTooLarge: '&4The Minimum Coordinate Value is Greater Than The Maximum, Please Change!'
 TeleportMessage: '&aYou have been teleported randomly to &a%coordinates!'
 NotPlayer: '&4Te peate olema mängija, et kasutada seda käsklust!'
