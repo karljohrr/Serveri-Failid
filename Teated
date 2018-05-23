@@ -1,0 +1,32 @@
+  '3':
+    SHOWMODE: ALLSERVERS
+    LINES:
+    - '[{"text":"Discord","color":"green","underlined":true,"clickEvent":{"action":"open_url","value":"https://discord.gg/rkTykpd/"}}]'
+  '4':
+    SHOWMODE: ALLSERVERS
+    LINES:
+    - '&e&lTeade > &7Serveri foorum &a&lfoorum.seffcraft.eu'
+  '5':
+    SHOWMODE: ALLSERVERS
+    LINES:
+    - '&e&lTeade > &7Serveri meeskonda kandideerimine on &a&lAVATUD'
+  '6':
+    SHOWMODE: ALLSERVERS
+    LINES:
+    - '&e&lTeade > &7Kui Te leiate vigu, siis teavitage sellest foorumis.'  
+  '7':
+    SHOWMODE: ALLSERVERS
+    LINES:
+    - '&e&lTeade > &7Pidage meeles &9igapäevaselt &7serveri poolt hääletada!'
+  '8':
+    SHOWMODE: ALLSERVERS
+    LINES:
+    - '&e&lTeade > &7Serverite vahel saab liikuda käsklusega &9/server'
+  '9':
+    SHOWMODE: ALLSERVERS
+    LINES:
+    - '&e&lTeade > &7Pidage meeles igapäevaselt teha &9/pulk'
+  '10':
+    SHOWMODE: ALLSERVERS
+    LINES:
+    - '&e&lTeade > &7Tasulisi teenusi saab näha käsklusega &9/teenused'
