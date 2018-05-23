@@ -1,32 +1,32 @@
   '3':
     SHOWMODE: ALLSERVERS
     LINES:
-    - '[{"text":"Discord","color":"green","underlined":true,"clickEvent":{"action":"open_url","value":"https://discord.gg/rkTykpd/"}}]'
+    - '[{"text":"Discord","color":"red","underlined":true,"clickEvent":{"action":"open_url","value":"https://discord.gg/rkTykpd/"}}]'
   '4':
     SHOWMODE: ALLSERVERS
     LINES:
-    - '&e&lTeade > &7Serveri foorum &a&lfoorum.seffcraft.eu'
+    - '&c&lTeade &8&l> &cServeri &8foorum &cfoorum.seffcraft.eu&8!'
   '5':
     SHOWMODE: ALLSERVERS
     LINES:
-    - '&e&lTeade > &7Serveri meeskonda kandideerimine on &a&lAVATUD'
+    - '&c&lTeade &8&l> &cServeri &8meeskonda kandideerimine &c&lAVATUD&8! '
   '6':
     SHOWMODE: ALLSERVERS
     LINES:
-    - '&e&lTeade > &7Kui Te leiate vigu, siis teavitage sellest foorumis.'  
+    - '&c&lTeade &8&l> &cVigade &8leidmise korral palume teavitada &c&lmeeskonda&8!'  
   '7':
     SHOWMODE: ALLSERVERS
     LINES:
-    - '&e&lTeade > &7Pidage meeles &9igapäevaselt &7serveri poolt hääletada!'
+    - '&c&lTeade &8&l> &cPidage &8meeles serveri poolt igapäevaselt &c&lhääletada&8!'
   '8':
     SHOWMODE: ALLSERVERS
     LINES:
-    - '&e&lTeade > &7Serverite vahel saab liikuda käsklusega &9/server'
+    - '&c&lTeade &8&l> &cErinevatesse &8serveritesse saate rännata käsuga &c/server&8!'
   '9':
     SHOWMODE: ALLSERVERS
     LINES:
-    - '&e&lTeade > &7Pidage meeles igapäevaselt teha &9/pulk'
+    - '&c&lTeade &8&l> &cIgapäevase &8preemia saate käsuga &c/pulk&8!'
   '10':
     SHOWMODE: ALLSERVERS
     LINES:
-    - '&e&lTeade > &7Tasulisi teenusi saab näha käsklusega &9/teenused'
+    - '&c&lTeade &8&l> &cKasutades /teenused &8saate endale soetada tasulise &cseisuse&8!'
