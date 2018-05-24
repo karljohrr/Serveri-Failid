@@ -11,7 +11,7 @@ Messages:
   Cancelled-Item: '&7Te eemaldasite müügist asja, saa see tagasi  /ah expired.'
   Item-Has-Expired: '&7Teie ese on aegunud, ning müügist eemaldatud.’
   Admin-Force-Cancelled: '&7Te olete lihtsalt jõud tühistas müügi.'
-  Admin-Force-Cancelled-To-Player: '&cÜks teie üksustest oli lihtsalt administraatori poolt tühistatud.'
+  Admin-Force-Cancelled-To-Player: '&cÜks teie esemetest oli administraatori poolt tühistatud.'
   Item-Doesnt-Exist: '&cSee ese ei ole enam müügis.'
   Max-Items: '&7Te &c&lei &7saa rohkem asju müüki panna.'
   Item-BlackListed: '&cSee asi pole lubatud selles müügikohas. '
