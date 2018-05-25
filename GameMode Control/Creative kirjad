@@ -1,0 +1,137 @@
+#  |-------------------------------| 
+#  | Language file of ShareControl | 
+#  |-------------------------------| 
+# 
+#  HELP:
+#  %block% - block that place\break\use 
+#  %item% - item that use 
+#  %gamemode% - the gamemode of player 
+#  %type% - type of block (natural or creative) 
+#  %coords% - coordinates of block 
+#  %name% - block name 
+#  %id% - block ID 
+#  %command% - ShareControl's command 
+#  %plugin% - ShareControl 
+#  %update% - new version 
+#  %version% - the current version 
+#  %link% - link to site of plugin 
+#  %development-team% - development team of the plugin 
+#  %nickname% - player 
+#  %uuid% - universally unique identifier of player
+Update:
+  UpdateNotFound: '&7Uuenduso ei leitud. Teil on uusim versioon!'
+  Available: '&7Uuendus on saadaval: &9%update%&7, download at &9%link%&7!'
+NoPermission: '&cTeil pole piisavalt Ćµigusi, et seda kĆ¤sklust kasutada!'
+Events:
+  Drop: '&cTe ei saa asju visata!'
+  MobsInteract: '&cTe ei saa mobe lĆ¼Ć¼a!'
+  PlayerInteract: '&cYou can not touch the players!'
+  Inventory:
+    Message: '&cYou can not use this item!'
+    Material: '&cYou can not use this &6%item%&c!'
+  OpenInventory: '&cYou can not used the inventory!'
+  BlockBreak:
+    Message: '&cYou can not break this block!'
+    Material: '&cYou can not break this &6%block%&c!'
+  BlockPlace:
+    Message: '&cYou can not place this block!'
+    Material: '&cYou can not place this &6%block%&c!'
+  ShootBow: '&cYou can not shoot a bow!'
+  InteractWithWorlds: '&cYou can not interact with the world around you!'
+  NotDropBlock: '&7This block is has not dropped because he is from the creative mode!'
+  NotBreakBlock: '&7This block is has not breaked because he is from the creative
+    mode!'
+  EntityInteract:
+    Message: '&cYou can not use this item!'
+    Material: '&cYou can not use this &6%item%&c!'
+  UseBlock: '&cYou can not use it!'
+  Fishing: '&cYou can not fish!'
+  ArmorStand: '&cYou not can interact with armor stand!'
+  ProhibitedCommand: '&cYou not can use this command!'
+  Saplings: '&7This sapling from the creative mode, so you can not grow!'
+  OnEssentialsSignUse: '&cYou not can use this signs!'
+GamemodesControl:
+  NotAllowedGamemode: '&cYou can not go in gamemode &6%gamemode%&c!'
+PlayersInGamemode:
+  List: '&7Players in &9%gamemode%&7 mode: &9%list%&7'
+  UnknownGamemode: '&cUnknown gamemode: &6%gamemode%&c.'
+  NotFound: '&7Players in the gamemode &9%gamemode%&7 not found!'
+  More: '&7To find out detailed information about the player, type &9/sc check <nickname>&7!'
+Menu:
+  This: '&9%command% &f- this menu,'
+  Reload: '&9%command% &f- reloading,'
+  Version: '&9%command% &f- information,'
+  Update: '&9%command% &f- check updates,'
+  GetList: '&9%command% &f- get a list of players who use this gamemode,'
+  AddToList: '&9%command% &f- add block or item to list from config,'
+  RemoveFromList: '&9%command% &f- remove block or item from list from config,'
+  Tools: '&9%command% &f- list of tools,'
+  ChangeTool: '&9%command% &f- get changing tool,'
+  InfoTool: '&9%command% &f- get information tool.'
+  SelectionSet: '&9%command% &f- change type of the blocks in selection,'
+  Check: '&9%command% &f- see information about player.'
+Using: '&7Using: &c%command%'
+Reload:
+  Reloading: '&7Reloading...'
+  Success: '&7Reloading the plugin successfully completed!'
+ChangeConfig:
+  AddToBlockingPlacement: '&7The block &9%material%&7 successfully added to list of
+    blocks that are prohibited to place!'
+  AddToBlockingBreakage: '&7The block &9%material%&7 successfully added to list of
+    blocks that are prohibited to break!'
+  AddToBlockingInventory: '&7The item &9%material%&7 successfully added to list of
+    item that are prohibited to use!'
+  RemoveFromBlockingPlacement: '&7The block &9%material%&7 successfully removed from
+    list of blocks that are prohibited to place!'
+  RemoveFromBlockingBreakage: '&7The block &9%material%&7 successfully removed from
+    list of blocks that are prohibited to break!'
+  RemoveFromBlockingInventory: '&7The item &9%material%&7 successfully removed from
+    list of items that are prohibited to use!'
+  ThisNotMaterialAndId: '&7Error: &9%material%&7 is not a material or id of block
+    or item.'
+Tools:
+  ChangeTool:
+    Get: '&7You got the &9change tool&7!'
+    Name: '&9&lChange Tool'
+    Lore:
+      '1': '&7Left click to &cSET&7 the Game Mode of a block'
+      '2': '&7Right click to &cREMOVE&7 the Game Mode of a block'
+      '3': '&7Tool by %plugin%'
+  InfoTool:
+    Get: '&7You got the &9information tool&7!'
+    Name: '&9&lInformation Tool'
+    Lore:
+      '1': '&7Left or right click to get the Game Mode of a block or a player'
+      '2': '&7Tool by %plugin%'
+  Type: '&7Type: &9%type%'
+  Types:
+    Creative: creative
+    Natural: natural
+  Name: '&7Name: &9%name%'
+  ID: '&7ID: &9%id%'
+  Data: '&7Data: &9%data%'
+  Coordinates: '&7Coordinates: &9%coords%'
+  Nickname: '&7Nickname: &9%nickname%'
+  UUID: '&7UUID: &9%uuid%'
+  Gamemode: '&7Gamemode: &9%gamemode%'
+  Health: '&7Health: &9%health%'
+  Exp: '&7Exp: &9%exp%'
+  World: '&7World: &9%world%'
+  BlockHas: '&7This block is has a &6%type%&7!'
+  BlockNow: '&7Now this block &6%type%&7!'
+Gamemodes:
+  Creative: creative
+  Survival: survival
+  Adventure: adventure
+  Spectator: spectator
+Selections:
+  WorldEditNotFound: '&6WorldEdit&c was not found, so you can not use this command.'
+  UnknownType: '&cUnknown type: &6%type%&c! Available types: &6%types%.'
+  MakeSelection: '&cMake a region selection first!'
+  NotCuboid: '&cYour selection isn''t a cuboid!'
+  PleaseWait: '&7It may take some time.. Please wait!'
+  BlocksChanged: '&7Been successfully updated &9%number% blocks&7!'
+Version: '&7The current version of the plugin: &9%version%&7!'
+DevelopmentTeam: '&7Development team: &9%development-team%'
+Site: '&7Site: &9%link%'
+Author: '&9%nickname% &7[&cauthor&7]'
