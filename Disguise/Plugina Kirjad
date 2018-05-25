@@ -1,7 +1,7 @@
 reload-complete: §6[iDisguise] Reload complete.
-no-permission: §cYou are not allowed to do this.
+no-permission: §cSul ei ole õigusi seda teha.
 console-use-other-command: §cUse /odisguise from the server console.
-cannot-find-player: §cCannot find player %player%.
+cannot-find-player: §cEi leia mängijat %player%.
 cannot-find-entity: §cCannot find valid living entity with EID %id%.
 wrong-usage-no-name: '§cWrong usage: account name required'
 wrong-usage-two-disguise-types: '§cVale kasutus: two disguise types given'
