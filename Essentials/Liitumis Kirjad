@@ -1,0 +1,7 @@
+# You can set a custom join message here, set to "none" to disable.
+# You may use color codes, use {USERNAME} the player's name or {PLAYER} for the$
+custom-join-message: "&a{USERNAME} &eliitus serveriga!"
+
+# You can set a custom quit message here, set to "none" to disable.
+# You may use color codes, use {USERNAME} the player's name or {PLAYER} for the$
+custom-quit-message: "&c{USERNAME} &elahkus serverist!"
