@@ -1,0 +1,11 @@
+# Translations
+message: "&7Te saite &a&l%money% &720 minutilise sees olemise eest!"
+message_payoutlimit_reached: "&cYou have reached the payout limit today. You ea$
+message_afk: "&7Te &c&lei saanud &7raah, sest te olite afk!"
+message_multiple_ips: "&cYou havn't earned money because you're playing with mu$
+message_actionbar: "&aYou earned &c%money% &afor 10 minutes online time!"
+message_payoutlimit_reached_actionbar: "&cYou have reached the payout limit tod$
+message_afk_actionbar: "&cYou havn't earned money because you were afk!"
+message_atm_noperms: "&cYou don't have the permission to use ATM's!"
+message_atm_nomoneyinbank: "&cYou don't have enough money in bank!"
+message_atm_nomoney: "&cYou don't have enough money!"
