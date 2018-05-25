@@ -1,0 +1,7 @@
+messages:
+  whitelist: §7Server on ajutiselt §chooldusel!
+  unknown-command: §8(§c§l!§8) §7Tundmatu käsklus.
+  server-full: §7Server on §ctäis§7!
+  outdated-client: Vananenud klient! Palun kasuta versiooni {0}.
+  outdated-server: Vananenud server! Palun kasuta versiooni {0}.
+  restart: Serverile tehakse taaskäivitus.
